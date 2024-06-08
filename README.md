@@ -43,7 +43,7 @@ OpenAI API Key
 
 # Project Structure
 
-**chatbot_app.py:** The main Streamlit application file.
+**app.py:** The main Streamlit application file.
 
 **requirements.txt:** List of Python dependencies.
 
