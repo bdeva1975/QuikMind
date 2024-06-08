@@ -20,7 +20,7 @@ cd quikmind
 pip install -r requirements.txt
 **3. Run the Streamlit App:**
 streamlit run chatbot_app.py
-**4.Interact with MindSpark: Open the local Streamlit app in your web browser, type your messages, and explore the various features.**
+**4.Interact with QuikMind:** Open the local Streamlit app in your web browser, type your messages, and explore the various features.
 
 # Requirements
 Python 3.7 or higher
