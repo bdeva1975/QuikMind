@@ -10,7 +10,7 @@ MindSpark is a sophisticated AI chatbot built with Streamlit, OpenAI's GPT-3, an
 
 # How to Use
 **1. Clone the Repository:**
-git clone https://github.com/you/QuikMind)](https://github.com/bdeva1975/QuikMind/quikmind.git
+git clone https://github.com/bdeva1975/QuikMind/quikmind.git
 cd quikmind
 **2. Install Dependencies:**
 pip install -r requirements.txt
