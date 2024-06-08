@@ -3,9 +3,13 @@ MindSpark is a sophisticated AI chatbot built with Streamlit, OpenAI's GPT-3, an
 
 # Features
 **Conversational AI:** Powered by OpenAI's GPT-3 for intelligent and context-aware responses.
+
 **Sentiment Analysis:** Uses VADER sentiment analysis to assess the user's emotional tone.
+
 **Personality Traits:** Infers basic personality traits from user input to create a more personalized interaction.
+
 **News Summarization:** Summarizes news articles from text input, URLs, or uploaded files using state-of-the-art NLP models.
+
 **Appointment Booking:** Allows users to book appointments through a simple and intuitive form.
 
 # How to Use
