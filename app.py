@@ -75,7 +75,7 @@ if user_input:
     personality = determine_personality(user_input)
     
     # Generate response
-    response = generate_response(user_input)
+    response = generate_response(user_input, api_key)
     
     # Update chat history
     st.session_state.chat_history.append({"User": user_input, "Bot": response, "Sentiment": sentiment, "Personality": personality})
